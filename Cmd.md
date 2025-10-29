@@ -8,3 +8,13 @@ git add .
 git commit -m "Init"
 git push
 git branch feature-url
+touch Cmd.md
+git add .
+git commit -m "Init"
+git push
+git switch hotfix
+git rebase main
+git switch main
+git merge hotfix
+git add .
+git push
