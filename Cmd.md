@@ -18,3 +18,5 @@ git switch main
 git merge hotfix
 git add .
 git push
+git tag v0.1 38daca3
+git tag v0.2 2b7345d
