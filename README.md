@@ -1,2 +1,2 @@
 # examgit
-Une fonctionnalité
+Deux fonctionnalitées
